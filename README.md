@@ -1,4 +1,4 @@
-## BrainChart-FC-Lifespan
+# Functional connectome through the human life span
 
 
 First revision date 15/9/2023
@@ -9,9 +9,8 @@ E-mail: lianglongsun@mail.bnu.edu.cn
 
 This repository provides code and source data that support the findings of the article entitled "Functional connectome through the human life span" by Sun et al. (2023) bioRxiv. https://www.biorxiv.org/content/10.1101/2023.09.12.557193v1
 
-
+## Data availability
 ### Brain-Charts Folder
-
 - Trajectory_whole-brain_mean_FC.mat
   - The lifespan normative trajectory of the mean functional connectivity across the entire brain
 - Trajectory_whole-brain_variance_FC.mat
@@ -36,7 +35,6 @@ This repository provides code and source data that support the findings of the a
   - The lifespan normative trajectory of the system segregation of DM network
 
 &nbsp;
-
 - Lifespan_axis.fs4.L.func.gii & Lifespan_axis.fs4.R.func.gii
   - The life-cycle developmental axis across the whole cortical brain in fsaverage4 space
 - Lifespan_axis.fsLR32k.L.func.gii & Lifespan_axis.fsLR32k.R.func.gii
@@ -47,7 +45,6 @@ This repository provides code and source data that support the findings of the a
   - The sensorimotor-association axis across the whole cortical brain in fsaverage4 space, ressampled from S-A_axis.fsLR32k.L.func.gii & S-A_axis.fsLR32k.R.func.gii
 
 &nbsp;
-
 - plot_Normative_Trajectory.m
   - Plot the normative trajectory
 - plot_Normative_Trajectory_female_male.m
@@ -88,4 +85,42 @@ This repository provides code and source data that support the findings of the a
 | 70-year atlas          | 65-75 years               | Atlas25_FinalAtlas_fs4_L(R).label.gii | Atlas25_FinalAtlas_fsLR32k_L(R).label.gii |
 | 80-year atlas          | 75-80 years               | Atlas26_FinalAtlas_fs4_L(R).label.gii | Atlas26_FinalAtlas_fsLR32k_L(R).label.gii |
 
-### Code Folder
+&nbsp;
+
+## Code availability
+#### Quality control for raw images
+- MRIQC v0.15.0 (https://github.com/nipreps/mriqc)
+#### Data preprocessing
+- QuNex v0.93.2 (https://gitlab.qunex.yale.edu/)
+- HCP pipeline v4.4.0-rc-MOD-e7a6af9 (https://github.com/Washington-University/HCPpipelines/releases)
+- ABCD-HCP pipeline v1 (https://github.com/DCAN-Labs/abcd-hcp-pipeline)
+- dHCP structural pipeline v1 (https://github.com/BioMedIA/dhcp-structural-pipeline)
+- dHCP functional pipeline v1 (https://git.fmrib.ox.ac.uk/seanf/dhcp-neonatal-fmri-pipeline)
+- iBEAT pipeline v1.0.0 (https://github.com/iBEAT-V2/iBEAT-V2.0-Docker)
+#### Data postprocessing
+- MATLAB R2018b (https://www.mathworks.com/products/matlab.html)
+- SPM12 toolbox v6470 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12)
+- GRETNA toolbox v2.0.0 (https://www.nitrc.org/projects/gretna)
+- cifti-matlab toolbox v2 (https://github.com/Washington-University/cifti-matlab)
+#### Data harmonization
+- Python v3.8.3 (https://www.python.org)
+- neuroharmonize package v2.1.0 (https://github.com/rpomponio/neuroHarmonize)
+#### for-Population-Level-Atlases
+- Atlas_Generation.m
+  - To establish a series of continuous growth atlases with accurate system correspondences over the life course, we proposed a Gaussian-weighted iterative age-specific group atlas (GIAGA) generation approach. Detailed information could refer to https://www.biorxiv.org/content/10.1101/2023.09.12.557193v1
+#### for-Individual-Parcellation
+- fun_Run_IndiPara_for_Each_Indi.m
+  - Using the individualized parcellation method proposed by Wang et al. [ Wang, D., et al. Parcellating cortical functional networks in individuals. Nature Neuroscience 18, 1853-1860 (2015) ], we generate person-specific parcellation maps and further elucidate distinct timelines of maturation for functional segregation within various subsystems.
+#### for-Brain-Charts
+- GAMLSS_ModelSelect_and_RunCentile.R
+  - R function for GAMLSS model specification and estimation
+  - R v4.2.0 (https://www.r-project.org)
+  - GAMLSS package v5.4-3 (https://www.gamlss.com/)
+#### Visualization
+- MATLAB R2018b (https://www.mathworks.com/products/matlab.html)
+- BrainNet Viewer toolbox v 20191031 (https://www.nitrc.org/projects/bnv)
+- Connectome Workbench v1.5.0 (https://www.humanconnectome.org/software/connectome-workbench)
+- R v4.2.0 (https://www.r-project.org)
+- ggplot2 package v3.4.2 (https://ggplot2.tidyverse.org/)
+
+
