@@ -7,7 +7,7 @@ This document is designed to give a detailed description of the visual-check ima
 ## Overall image quality control process
 
 
-![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/SI_Figure1_QC.png)
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/SI_Figure1_QC.png)
 
 
 
@@ -30,23 +30,51 @@ The functional images were primarily checked for
 
 
 
-### Visual-check QC Details for structural images
-#### Instances of subjects with good quality
-![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/SI_Figure1_QC.png)
-#### artifacts
+## Visual-check QC Details for structural images
+### Instances of subjects with good quality
 
-#### quality of cortical segmentation
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_Example_1.PNG)
 
-#### quality of cortical reconstruction
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_Example_2.PNG)
 
-#### quality of myelination (measured by T1/T2 ratio)
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_Example_3.PNG)
 
-### Visual-check QC Details for functional images
-#### incomplete brain coverage
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_Example_4.PNG)
 
-#### quality of functional registration
+### Structural images with artifacts
+Using brain tissue boundary mapping from surface to volume (blue lines represent the gray matter boundary, green lines represent the white-gray matter interface), subjects with artifacts affecting brain tissue segmentation results were excluded.
 
-#### quality of volume-to-surface mapping
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_anat_1.PNG)
 
+### Issues with quality of tissue segmentation
+Examples of subjects with quality issues in cortical segmentation/reconstruction. Common issues include unrecognizable brain tissues, missing brain tissues, indistinguishable gray and white matter, indistinguishable gray matter and skull, and problems with surface-to-volume mapping.
+
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_anat_2.PNG)
+
+### Issues with quality of surface reconstruction
+Examples of subjects with quality issues in cortical surface. Each subplot is the visualization of the mid-thickness surface across four views: left lateral, right lateral, left medial, and right medial.
+
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_anat_3.PNG)
+
+### Issues with quality of myelination distribution 
+Examples of subjects with problematic myelination distribution.
+
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_anat_4.PNG)
+
+## Visual-check QC Details for functional images
+### incomplete brain coverage
+Examples of subjects with incomplete BOLD signal coverage.
+
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_func_1.PNG)
+
+### quality of functional registration
+Individual fMRI data were first registered to each subject's structural space, then to standard space. The registration quality was assessed by visualizing the averaged fMRI images (background), fMRI image masks (purple outlines), and the boundaries of gray and white matter in structural images. Subjects failing to pass quality control are depicted.
+
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_func_2.PNG)
+
+### quality of volume-to-surface mapping
+Visualization of mean BOLD data mapped from volume space to the surface, showcasing examples that failed the quality check.
+
+![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_func_3.PNG)
 
 
