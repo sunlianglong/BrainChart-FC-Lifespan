@@ -13,24 +13,20 @@ This document is designed to give a detailed description of the visual-check ima
 
 ## Visual-check QC Details
 
-During the first three steps of quality control (QC) process (see Figure 1), we excluded XXX scans with structural imaging issues and XXX scans with functional imaging problems. To further ensure the quality of the remaining scans, we performed a detailed and comprehensive visual-check QC by convening a team of four anatomy-trained experts: Qian Wang, Qian Yu, Chenxuan Pang, and Lianglong Sun. For each participant who passed the first three steps of QC, we generated three 2-D pictures (one for structural images and two for functional images). Based on these images, Lianglong Sun undertook the initial visual QC of both structural and functional data for all participants, recording the IDs of those with quality issues. Subsequently, Qian Wang, Qian Yu, Chenxuan Pang performed a secondary visual review of all images, also documenting participants' IDs with observed quality issues. The union of these records determined the final list of excluded participants. Throughout the process, the QC team engaged in thorough discussions to ensure consistency in exclusion criteria among members. Participants were excluded if any of the following issues were present. Throughout the process, the QC team engaged in thorough discussions to ensure consistency in exclusion criteria among members.
+To achieve a comprehensive quality control (QC), we employed a four-step data QC framework, integrating automated tools and expert manual evaluations for both structural and functional images across 46,870 scans. During the first three steps of quality control (QC) process (see Figure above), we have excluded 5,865 scans with structural imaging issues and 7,505 scans with functional imaging problems. To further ensure the quality of the remaining scans, we performed a detailed and comprehensive visual-check QC by convening a team of four anatomy-trained experts: Qian Wang, Qian Yu, Chenxuan Pang, and Lianglong Sun. For each participant who passed the first three steps of QC, we generated three 2-D pictures (one for structural images and two for functional images). Based on these images, Lianglong Sun undertook the initial visual QC of both structural and functional data for all participants, recording the IDs of those with quality issues. Subsequently, Qian Wang, Qian Yu, Chenxuan Pang performed a secondary visual review of all images, also documenting participants' IDs with observed quality issues. The union of these records determined the final list of excluded participants. Throughout the process, the QC team engaged in thorough discussions to ensure consistency in exclusion criteria among members. Participants were excluded if any of the following issues were present. Throughout the process, the QC team engaged in thorough discussions to ensure consistency in exclusion criteria among members.
 
-The structural images were primarily checked for
+The **structural images** were primarily checked for:
 - artifacts
 - quality of cortical segmentation
 - quality of cortical reconstruction
 - quality of myelination (measured by T1/T2 ratio) 
     - For participants with T2-weighted images, those exhibiting abnormal distribution (measured by T1/T2 ratio) were also excluded. 
 
-The functional images were primarily checked for
+The **functional images** were primarily checked for:
 - incomplete brain coverage
 - quality of functional registration
 - quality of volume-to-surface mapping
 
-
-
-
-## Visual-check QC Details for structural images
 ### Instances of subjects with good quality
 
 ![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_Example_1.PNG)
@@ -41,8 +37,9 @@ The functional images were primarily checked for
 
 ![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_Example_4.PNG)
 
+## Visual-check QC for structural images
 ### Structural images with artifacts
-Using brain tissue boundary mapping from surface to volume (blue lines represent the gray matter boundary, green lines represent the white-gray matter interface), subjects with artifacts affecting brain tissue segmentation results were excluded.
+Subjects will be excluded if artifacts interfere with brain tissue segmentation. Blue lines represent the gray matter boundary, green lines represent the white-gray matter interface.
 
 ![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_anat_1.PNG)
 
@@ -61,7 +58,7 @@ Examples of subjects with problematic myelination distribution.
 
 ![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_anat_4.PNG)
 
-## Visual-check QC Details for functional images
+## Visual-check QC for functional images
 ### incomplete brain coverage
 Examples of subjects with incomplete BOLD signal coverage.
 
