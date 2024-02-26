@@ -59,17 +59,17 @@ Examples of subjects with problematic myelination distribution.
 ![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_anat_4.PNG)
 
 ## Visual-check QC for functional images
-### incomplete brain coverage
+### Incomplete brain coverage
 Examples of subjects with incomplete BOLD signal coverage.
 
 ![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_func_1.PNG)
 
-### quality of functional registration
+### Quality of functional registration
 Individual fMRI data were first registered to each subject's structural space, then to standard space. The registration quality was assessed by visualizing the averaged fMRI images (background), fMRI image masks (purple outlines), and the boundaries of gray and white matter in structural images. Subjects failing to pass quality control are depicted.
 
 ![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_func_2.PNG)
 
-### quality of volume-to-surface mapping
+### Quality of volume-to-surface mapping
 Visualization of mean BOLD data mapped from volume space to the surface, showcasing examples that failed the quality check.
 
 ![image](https://github.com/sunlianglong/BrainChart-FC-Lifespan/blob/main/QC/png/QC_func_3.PNG)
