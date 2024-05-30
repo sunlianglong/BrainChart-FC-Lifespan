@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData/>
+   <LabelTable/>
+   <DataArray  ArrayIndexingOrder="ColumnMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="2562"
+               Dim1="1"
+               Dimensionality="2"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               ExternalFileName=""
+               ExternalFileOffset=""
+               Intent="NIFTI_INTENT_NONE">
+      <MetaData>
+      </MetaData>
+      <Data>eJzdWduxqzoMdQmUkBJ2B8fugBIogRL4zGdKoJSUQikHJ17JQki2yCYz9x7PrEGW9bItG4WEcI8hTCv6FEJY8bMi867rc1mfl8xf2/QnhG6lY3zKZNnbirnoP+zk8fR8ZkA3t4dOfGIu/uAjYyi62e5Y9Fgu+80IFAN44N8K717A47cyjlhvieQo7kiYypwCzYn7FwW19pPeyG0s9FjWJq9xfo6Fh/nP8Y3cx5oAGLsTMDbF7RrjCRpzhYycT+bJhvi68uS4uxIPx4V44fda5LqyDsgrCyG9953BOcC0lJX66HPOaECOcE4xajHLOG8VPPIsbmkAvqSOFs8mNsrjlx+R3xamqPc5Ll5DPhcS00FIXaaRk9bZuwhblsyF/ZzY+PyzHz7zufE9IKHJ5DbS2Ch0RkHjnsWdAjB/VGTRxxjs5jP8QzSfa41uIceCe0zD1QncM/IeZD98JmBfOy+LIsOxDMI37lW+Xz3gu1fexxrk2Vti/ewuQiYUXkjbOPgsQLZ2XpDLu/OTtrblOWg1zusubfl4R/D7hnkyV5HjnPMZc9znO3idsJ3lr2mra+WflfMdjcGufP9xX8sB2B+Ev476XdrnVpfe68/7wGungWsn73vNC+SI7DPPC+ve1OQsHS2mb8xVnhGPnqUrwbVAlrfqmFp94wHr3438uP8CUn8+eT+O4Ihv5BFy6h7rNd5ZmGIdLZm7IYv1vyV9n86I3bL7m/w5ikc+O/A6W4InxycDrMf93um/Beybxj/DLsMr18o73G2gW4hEYw3lOnvsHMEk6CP4VO8bODJfj/7UkM+4pO3vsIvCPws1/7X4tFi1uD2yXvRyPYPS/wfa9IW5XNL7CbTkpYxqQ0G+m/JTqy953148pVn16dmotZq8l6e1kWRGh6zUc80rPoF+S1eOQ78G/h4ifytq30o0fckbkw2Ma7Ysfs2u1Kv5tqCt5Rz333gAa/15LCh6DFmL5XuxN/wxLJmWv08QBO3xIWXw3QA0vkNhvt9C9uf9dnY2eK/6kmPaN7pP7WrwyMh94P2QeSjzsyZj7UHNBjDFsPnN1cKi0Jb/qxGDFifkwVsaezX8Yh8nmvdC81+I91/GkOqoyddsHvFxFuR+ADHpv/c0WbmXoKXut1DbK4xb8pLvtSvrxSP5k22j9oSv2u8FlumJ57XxDZzhLwjaC15/SWt4+fgfNlk712rtI2NsC3SX9v+BMM+CJiP1vbZCDB/XsdDVanKrtq9B05sbsSF29q3FOJPcHG274M8kZ62jtd7a3OYyN61ustaDxzLt/S/WA1mzylq2BW/tlwG7XdquZ5f2MoxaTjNq/+9p8NRUfcOGrCFqsp5YeiOOIe3n460NZY1p+eiEHPM1eN7TS9zK81p16f1/6UC0fEfxO2T3LgvbsVrz5FBIPvmjdtv4C6hQte0=</Data>
+   </DataArray>
+</GIFTI>

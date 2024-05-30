@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData/>
+   <LabelTable/>
+   <DataArray  ArrayIndexingOrder="ColumnMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="2562"
+               Dim1="1"
+               Dimensionality="2"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               ExternalFileName=""
+               ExternalFileOffset=""
+               Intent="NIFTI_INTENT_NONE">
+      <MetaData>
+      </MetaData>
+      <Data>eJzdWAuy2yAM5GbR0TgKR+EoHKXPryhdb1aAHdJ5rWZ2zEfos5IdxymZpZS+kDtqR+vzcux/SX70cV9vfWxwxbMNzh7ybe/xG65r3VaCMw736fYS+ctwzTB3HRNn1Nx1K+Xv9jAf58TzLx24NxK05Zw8/T1egTxhnMyV2R+uPAesEXKDXHO+Pve8nrySFNQRMR9Xj8uAI+TKz7u9qFaqvr5exX6kq/qF9UawAEqP9esFP5G9q3FVgNm51lXMcT3RGvpBvxnsNHvtqzZBtvM9hZidLQFYj3N9qf9GKXYel8CXx9LslSelcwjuNTqPut98imcJQ+ni3MfeP95T3GOy1x5nPZy7fY6bcxjB6NpM3wPsB2P0/sVxJj3sRe7J5DWFcaa1FKyp9SjXBLH4OYyPecwXwHkWOz//HQ1sz/wcUvp1RRro4rlG/jmmlR6Pfpt47j1QTOt5nzgPqpccFa7Vxs8lrzv2GetE8ycPAOSH+WT+GN6HBmNcU+sRMo1HWLXnQO6znfs3sh/ttcGZu5jZZR8zft7h7ROwYG03dsW6YtcW9dV+tffe735C/UY6u2pxJz7FN9ZltD+C1wzHjOhsJuAZnuO6QuR7BblzsNtuVBPmzQLdUV0Vl8e1UexZ6LnvRvE2ON8II94b2eKzV7DDBsa7msc7eDfWCCVY241dsVawqWqYbXy/3OH+EJ7/D3Lw9SmbWLORFKHjc+yf1VphnQ/BdSV8zntK9Y7qyWidMRLlS+25rNpFnRVdHCMPKufTPSX+t6/e03f+F+7ALKZ6M7arOSodnEecH7AAShfPzM4re2z3ik/X5+9MOxB9N7iir74hzPKJENUq2h/14W4gDw2urHPVHtveXc/Zd0HHnXqtxJQ6vuPreIl7gtVYcJ5pPLPrdWGd1XoikoDbU3tKbwUzW2gzsr1qYxYj+rkD5x6vu6D8Wb96/SNOOD/crwvIi3rVzs83jH9UP+VD6SGUzVFtVZ2jeYQZRysxlwB1sDdCs/F/LFWHqG6RPo4/Bc/hX5Tj98nFuYpklCPvoS0fr/QC98CdvvrUO/fffsf/hE0z/d6z+n67yjfbVO+pMzzPEjz+COq5gGv8/Fh5956BbdaBntIvCzzjvbITHkOy8+816uS+xrXI4hzGqOLl+uzMQ9Wbofgc8a1yViiD8aiGuO7C+ig8Z1nJaeRr5Pd9/AJM7NK7</Data>
+   </DataArray>
+</GIFTI>

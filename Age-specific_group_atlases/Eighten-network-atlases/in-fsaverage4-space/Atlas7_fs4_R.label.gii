@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData/>
+   <LabelTable/>
+   <DataArray  ArrayIndexingOrder="ColumnMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="2562"
+               Dim1="1"
+               Dimensionality="2"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               ExternalFileName=""
+               ExternalFileOffset=""
+               Intent="NIFTI_INTENT_NONE">
+      <MetaData>
+      </MetaData>
+      <Data>eJzdWd3R4yAMpARKSAnp4EQHLiEluAQ/5vErwaWkFJdy0YSNF1lgnPjm5o6ZHUBIQhLiJ04IPymESUIYnnV44vqEPHF7YnnSL0p/lulXCFHH5AXlVdmHvOQfWYfKThmQ1aJ6g7wwZ95bhsrfsqzqHbMc+O5mXq2vRFvIHsm2PGQdv+Yx+KpjsP2RZRWwXzLfRGMTIZB/jIH89co1rdAy5vaYY6Mx1nrMNPVfcg1IWmN3z1BelYU/DyljixhhTTG2yOrvknkG8idkui2wL9LcsDtme+/GbszJdsccB5tXaDPNo3MOXBs6FkNbZJszHpAjnFMWNVlr208DyDVuA5jHytTssTn9zt+8tgxJZc5z7nt9tsvqr2FK/t6xgE01Od5v3t7jMY/f+v628cTC5x3mXvL68z7ic8DC49Ey0thoZGwf5yzOFIDp2MMejaH6Zll127OI+0Bo9GELcsuuC84OwJ4Z9txjXmsH5nnv1TwH+ry/gMHw8LnFmEjHQhCHxoC8SFm35rF7z+5XxtsOynGcdWyHPQeksafed1ta7we7z99naij3wV7hvI6ppMe03jHcB83mrJfzilm2PKDxmOoFP8sit2wuermviJTLsNeuK+c250Ur3y1iluU6pjX+vA4cOw+4B2t3Wkj1u26PFznCbaYdQe3cPCJjbVIspv4Uds/1+mr30eLQWBe/BVS+9Y75Bqz3UcmPxxeoyZ/tR4/enrwCzfK13ndnYpI2eng8XsRHad56nGG7N0dtvjMR0rbfg59GH7Gz75ejkEa7Bawb7nm0YdMRXZ5ehpB+vKd6c4zzqzfufwtTBzzelq5evcDwAc9ANXCWn0fsvzio0b/FkZiyfS1bMW7ji7Fv9nmxBsHp/wdl+gO+XNJaA3v8lsfVkcp3ldYi5ftP29dU/rZZiO6V2vv0bLRKi7+X5pWReMYOXivX5Ze8gP6erB2HfAv296EHj5dpVueY6sB4j21H9e7x1NCK6Sx+e49XbZkbwPtL0hYtuRr25vtGJ6/BHr/l8/LJ8xnouT88Xp2L24ratwLvm1oNPTqsHjv/aOpP0Yr9rYOntR42H9H3YHlq69bSAUxS/ub6BLU8uVds8OzD2nH/aK70YpItbDwsFlnvYbZ7IZoYQG6S8lvKt9jzT2StRbZj8INt5TEr86dRi/lkch3+t9bIk90773r4WmitMcYtP48rQgb3PZ0h+d/zjuTP3lnec957cbik8j/bs2FjZG0LDR8upg1d3O4Fx5/XpIa3/f9gsW/nseHHkTHWhXZM6/8pMW3/Y6nB4/lUV5Dw8TsWst6bvOeNv0ebpfyPqGYD2+L5wrQgfXpn4ovJ57dxBjx/5+zbLe2/kUDjWmHvEdZRu2v4Lee97468+c5GpPkGZ27Ek9sePrmDa3HqfX8tstbAUVtiZd49G3rf78MB3hYi1TFtz3um8T1h18mjMfiOsnfI5m4M5VirtOYs5u7gr+m9d8zh4zfCw6p8</Data>
+   </DataArray>
+</GIFTI>

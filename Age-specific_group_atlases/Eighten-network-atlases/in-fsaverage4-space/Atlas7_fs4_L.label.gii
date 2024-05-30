@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData/>
+   <LabelTable/>
+   <DataArray  ArrayIndexingOrder="ColumnMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="2562"
+               Dim1="1"
+               Dimensionality="2"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               ExternalFileName=""
+               ExternalFileOffset=""
+               Intent="NIFTI_INTENT_NONE">
+      <MetaData>
+      </MetaData>
+      <Data>eJztWcm1ozAQVAiEQAhkMK0MFAIhOASOPjoEQnEohDLWt8oUTUsIDH8uo/fqaWv1rsXYuYd3TsS54VUPr/r5wvjC7dX/Ka+6j3N/3mORPtJEWkm0IjOPSC+pDol3n3jcE+KaLvHsIMe917dpXeOXejz8jKfMGAhRFuwZiSb4eVyjS7pGDARHtmhMMtvY0nibfDiRzZMscffL+aD8cidfhTQGP3z8Bb/IG3EccxpRVrYoe+F/jSbFAHo2hJD0ijrGPvS8kZ4AF93n+Gogvs8KgJbXlQAZyAeWK4kn8olzatzQI6g81XKuQEf7A/nrqD9UwG0Aefygfa73CfaHxlDoQz7vFc07pxPy1JIZaG8Goh1kKYv7vHfR1tD7WuNzplAOTDLnFHIk+Hm/95QfJdk4N/jsyAF5q88YPmesPp9BGuBpIXj77GIanFWjLM8qzOOM0+ecxkhtnIEa1pkI8L6pBc6yRazduwbNGYXl8N7b2sd6bwxJn4HasVjnPOAKc8V1btYx5k+jgNy18lTTbkGv53zDfaTbjV+20Ucbd5eGlYufO43k8LgFjqu+/3I5kOszj1bRcRy3Cuwu3b/fIp6BOZTu0CtR0knrb9E/xbahxNdaexQlf+Nc0zgSuxwvyfh1NLAVizHTfsr6vY8x1u2snAjebm/Rsk57/Pcf9egyvsQ439GjLPeujhHuxjiWe1PqeLsk5/MmTfJLd/GV0PpcgUmW748aGvQZIut94bz9O028M9/6YtSDWsvrxZib1PwewO9H15f4Mv8tGaAJCdxnHlYcYD/iZcV2r/6l3Kihaf3y95s11iqEHbrtsSXHN1AdDF1CZq7lmMj8O3PIxCY3fhS9t3+3WuPf4ky9Gc4v29zPyXXe7nPe6bMh4kk1sCdGIttvjAidM3hL9H79XSDibvhbkjzIFVnH4ql0wxzT/hYsmxl3qo+ir6QbZf19hLF3fe77Sb9Dp5JNGiVbS7R74nEEOX9eAf7dD9n4Tcw66XXWmOZ7M+K9F7lvEPqdqsc03E65XdK/8+pbg8y4+cz3CTkGtu8oD+aFGnxz3/a+QcnnshGTrbUapTmL5qjsK3A7QGPlFuycZHkn6bGf+9mtv61OMv+fNRV89C/LFfKZZ62NTJPb6+zzhe8zsGisNcMvAXlS0pl1qtXzw5NKUQ+3puWax9sTAfk1tLC5pfqozDNt0Dz32JS1FcVnctStfx81BuI892Ox6HoDpbfYUViyWYdGydE0d9U++r/LUdTaGTbGg2rXvsU0at9uQCB5LLep1CFHX/IZz2/R3lT7ijcT3nf8n5gF3DFo52g0PUPHbiS6mv/nLD3A12pfgVw5g8fZheXp9hl8a236xi/Zu2BHqblH+S5Z1apgT9bK3lO2+JbOCO7f/F/zfMZG</Data>
+   </DataArray>
+</GIFTI>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData/>
+   <LabelTable/>
+   <DataArray  ArrayIndexingOrder="ColumnMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="2562"
+               Dim1="1"
+               Dimensionality="2"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               ExternalFileName=""
+               ExternalFileOffset=""
+               Intent="NIFTI_INTENT_NONE">
+      <MetaData>
+      </MetaData>
+      <Data>eJzdWdGV6yoMpASXkBLSwYUOXIJLcAl8+nNLcCkuxaVcs2Hi8Vhg/Db78S7nzEGAEJKQACfOLd65uMGFF54b5q09bPW61Y/Uv5X4x7luo71/9btMY36q+9S3YdoQw6uNktrOvzBn3jnLinm9Kesw0pp97k9rYb1UP0kX1gc8s9/bif4KL0BXtBfIzGv3GdAL68Mm+CnRj4xo2GuVJ/GmMmZ/P8k3jDnrNWca/oCMIdcY81lv2DJke2EL+3ogXsxbs72wy+V+LV3eoy7rndZmnVN7Cvs+dNl/A+ncYb7b44r3F7D2F3v6JL0VKgPzV5H5JXJLgC2LwOLzxLtmPTnmFNHb+KrMUz1OeoU9H5FniO0+762nNuLAhT3u0RdJLnRbsv9UDnKY8wa5wwAfaoXyqoxHAVF4YSvb/Y7ri3y9WyLJgz7Yf84j5Lz6hOeD55n7RhobaT7zxZyXeo5wfgKjwctt0LgPZqH5bEKc8BjDUQ19OGYi0aP4g8+MSGuMmYbNumZaA+sspGNfyB2cCZwPiJWJ4uWtjz+eq4zUp+cXwGev9lmI/ng+r2SLYgpHHo11PfvU1kc4nv+PcMxhzmvN17dct78ZWgrHdReO/bgjmH7fG/4MxDn2nmHxI04QM0muNXf1+5tooDiyYh59GIe+vKfwp8aCjvcU+2hjDHJ5T3HPwv+8D53MUyBeF3++zxajv4ZVaI0/jptWeQCfd2hrjrVCc+KdOz/AKR/EVl2jpk9NVuu75ZMoxcEimAv0HXxS3yu56Lf0xh556k9t3IWIxTRWe699CtH/DAvRLI/1tvz2Kf11HWv8t4H7MtH6/uUxjgXsuwLza0DOMu0a5rFuquPq9+92SyeV78J+z7Pc2R/llmJG/bYYfFdxp9A3BOt2yEHSrxea70oXzu+V2hqT0DXECiwZyjMJzXqzHEe8V3b8F1zZ0qJzq1+Axy+A179jk7VvkMkxwX5vzW3ts5Dy87tw/z9S4i/YApm8b7WCvdQ+HnuE9jci7nefZXy/BcL+Xa6F36UA9H4Guz8KT0vs1oquw7qW+lrkMs94wcvjI9ll2X7S1Zd9pX0qK829A/1GLH0rXiHZCDtHAez5iVyVd8WvfZaeCrxzLFj8mNMyn+HDkfbGXO4Hrbyucb07sHx6h5fjiuOL9de3XO1+iY3j8EvL2TGE/XeFoQBrzihz2Bcjrc+xWtJpDOff+lTWHcDPoLnPQvLXIrGV2gyNu5Z9UxkWItFrgWe9QC0m2B7W1Yn+1tsEfPwuPbxdMq3xYvUd4snvUFui0BZPK2IBXupWWZZs2MP2terH6/M8lcdyuf4ULB9BD8RHya+1fdOcsaBxWMMkNGDtz9vHYa/ZFo1hC5ZN1rxanFhATmF+6fzQHNa2+uYRzr/Z/wRTOH9j6feq9Z8AozSX//Mrfdde7Q/7U/eBARv+l8Xv5Ps9VyhdZUznsSzQXQUj1YraPAvfNn0YV2/h2v1fQmley3p3keTyW4ff7rPoAR4Llr9rNqrsO8CayLOFYN0zyHWcWQOdXXyOnd61xnvuLvS8hFyLL9XWGax8pfi27K7dv/ofoHXO9hcySmdfbU5JD6xn/a5nzcPYRDzcp79v9rKG8un/mrHi665ie+1uYJ9hzyBP9eA7EUXvSi5Xd43ap7agRqmepSKX9b97Lr/wFxHQ6zQ=</Data>
+   </DataArray>
+</GIFTI>

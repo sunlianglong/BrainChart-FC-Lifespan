@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://brainvis.wustl.edu/caret6/xml_schemas/GIFTI_Caret.xsd"
+       Version="1"
+       NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[Invalid]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ParentProvenance]]></Name>
+         <Value><![CDATA[/home/llsun/data/Surface/standard_mesh_atlases/resample_fsaverage/fs_LR-deformed_to-fsaverage.R.sphere.32k_fs_LR.surf.gii:
+wb_command -surface-sphere-project-unproject ../R.sphere.32k_fs_LR.surf.gii ../fs_R/fs_R-to-fs_LR_fsaverage.R_LR.spherical_std.164k_fs_R.surf.gii ../fs_R/fsaverage.R.sphere.164k_fs_R.surf.gii fs_LR-deformed-to-fsaverage.R.sphere.32k_fs_LR.surf.gii
+
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ProgramProvenance]]></Name>
+         <Value><![CDATA[Connectome Workbench
+Type: Command Line Application
+Version: 1.5.0
+Qt Compiled Version: 5.7.0
+Qt Runtime Version: 5.7.0
+Commit: 76441605d20536d81034a64c9d34ec393aa528b9
+Commit Date: 2021-02-16 13:46:47 -0600
+Compiled with OpenMP: YES
+Compiler: g++ (/home/caret/gcc/install/gcc-4.8.5/bin)
+Compiler Version: 4.8.5
+Compiled Debug: NO
+Operating System: Linux
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Provenance]]></Name>
+         <Value><![CDATA[/home/apps/workbench/bin_linux64/../exe_linux64/wb_command -label-resample /HeLabData4_master/llsun/Project2022_2/Methods_HeshengLiu/Code/Atlas_Final_4609_Revise2023/Atlas_1_26_yeo7_fs4/Atlas2_FinalAtlas_fs4_R.gii /home/llsun/data/Surface/standard_mesh_atlases/resample_fsaverage/fsaverage4_std_sphere.R.3k_fsavg_R.surf.gii /home/llsun/data/Surface/standard_mesh_atlases/resample_fsaverage/fs_LR-deformed_to-fsaverage.R.sphere.32k_fs_LR.surf.gii ADAP_BARY_AREA /HeLabData4_master/llsun/Project2022_2/Methods_HeshengLiu/Code/Atlas_Final_4609_Revise2023/Atlas_1_26_yeo7_fsLR32k/Atlas2_fsLR32k_R.label.gii -area-metrics /home/llsun/data/Surface/standard_mesh_atlases/resample_fsaverage/fsaverage4.R.midthickness_va_avg.3k_fsavg_R.shape.gii /home/llsun/data/Surface/standard_mesh_atlases/resample_fsaverage/fs_LR.R.midthickness_va_avg.32k_fs_LR.shape.gii]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[WorkingDirectory]]></Name>
+         <Value><![CDATA[/home/llsun]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_LABEL"
+           DataType="NIFTI_TYPE_INT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[#1]]></Value>
+      </MD>
+   </MetaData>
+   <Data>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</Data>
+</DataArray>
+</GIFTI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://brainvis.wustl.edu/caret6/xml_schemas/GIFTI_Caret.xsd"
+       Version="1"
+       NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[Invalid]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ParentProvenance]]></Name>
+         <Value><![CDATA[/home/llsun/data/Surface/standard_mesh_atlases/resample_fsaverage/fs_LR-deformed_to-fsaverage.R.sphere.32k_fs_LR.surf.gii:
+wb_command -surface-sphere-project-unproject ../R.sphere.32k_fs_LR.surf.gii ../fs_R/fs_R-to-fs_LR_fsaverage.R_LR.spherical_std.164k_fs_R.surf.gii ../fs_R/fsaverage.R.sphere.164k_fs_R.surf.gii fs_LR-deformed-to-fsaverage.R.sphere.32k_fs_LR.surf.gii
+
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ProgramProvenance]]></Name>
+         <Value><![CDATA[Connectome Workbench
+Type: Command Line Application
+Version: 1.5.0
+Qt Compiled Version: 5.7.0
+Qt Runtime Version: 5.7.0
+Commit: 76441605d20536d81034a64c9d34ec393aa528b9
+Commit Date: 2021-02-16 13:46:47 -0600
+Compiled with OpenMP: YES
+Compiler: g++ (/home/caret/gcc/install/gcc-4.8.5/bin)
+Compiler Version: 4.8.5
+Compiled Debug: NO
+Operating System: Linux
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Provenance]]></Name>
+         <Value><![CDATA[/home/apps/workbench/bin_linux64/../exe_linux64/wb_command -label-resample /HeLabData4_master/llsun/Project2022_2/Methods_HeshengLiu/Code/Atlas_Final_4609_Revise2023/Atlas_1_26_yeo7_fs4/Atlas16_FinalAtlas_fs4_R.gii /home/llsun/data/Surface/standard_mesh_atlases/resample_fsaverage/fsaverage4_std_sphere.R.3k_fsavg_R.surf.gii /home/llsun/data/Surface/standard_mesh_atlases/resample_fsaverage/fs_LR-deformed_to-fsaverage.R.sphere.32k_fs_LR.surf.gii ADAP_BARY_AREA /HeLabData4_master/llsun/Project2022_2/Methods_HeshengLiu/Code/Atlas_Final_4609_Revise2023/Atlas_1_26_yeo7_fsLR32k/Atlas16_fsLR32k_R.label.gii -area-metrics /home/llsun/data/Surface/standard_mesh_atlases/resample_fsaverage/fsaverage4.R.midthickness_va_avg.3k_fsavg_R.shape.gii /home/llsun/data/Surface/standard_mesh_atlases/resample_fsaverage/fs_LR.R.midthickness_va_avg.32k_fs_LR.shape.gii]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[WorkingDirectory]]></Name>
+         <Value><![CDATA[/home/llsun]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_LABEL"
+           DataType="NIFTI_TYPE_INT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[#1]]></Value>
+      </MD>
+   </MetaData>
+   <Data>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</Data>
+</DataArray>
+</GIFTI>

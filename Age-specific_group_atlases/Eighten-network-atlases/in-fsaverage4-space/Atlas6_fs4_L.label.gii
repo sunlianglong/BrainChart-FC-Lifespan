@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData/>
+   <LabelTable/>
+   <DataArray  ArrayIndexingOrder="ColumnMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="2562"
+               Dim1="1"
+               Dimensionality="2"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               ExternalFileName=""
+               ExternalFileOffset=""
+               Intent="NIFTI_INTENT_NONE">
+      <MetaData>
+      </MetaData>
+      <Data>eJzdmduR4yAQRQlBITgEZ7CQgUJQCA5Bn/6cEByKQlEoa3a41tV100KyPVu7VJ3i1TQNNA/ZIXylEOYYwniPx3s83bndudzzf8I9HnLdr++yLJ9lsmws8rHQp2/5WOKcz+VD0XEtZP3novOMfsK3Daci06W1HV9pYYoLI5H7+ip93uJaDuUz2RuLHbB3LITCH9m00BdQHoq9XAdbMOahyKPfa1rX8Zzc4pK/Fn0ozzzmKy5xKOWom0sdyPlqkDGfKnRlDWBXR1zLOsLGC/lKKHnAQfO8vgrmdGoAstzOA33AH7hf9u9zWvuU5V+eXdpPDfXPPZzZdgL+15e1fviqwH4fKnno0j60P6u8N/IK760g8qECt9/Sz/t0Fl/A2Hjf8l619jS3Y2Ab+y3OKOT74jPYVwP5R61f0Kf1WVGDzw/kuT+W1TyfQT31yToVq18FZ9UtLucU1/PZdqG0kvVw2oLPQsB7bY62jMclyVqHtZ53BO5H9yH2qu5f3sOBZHIYKZ2D7gec9bjDa3eBRw5dad8Z6J3HWPIenq/zfeSBNwZ04u5ibjGYvvi40yrlFjnU7kMreHcm6ziJ3GM9GvrA2L3791XyuYdY4ftxij+HZQtQ+y35KT6PYUuv1fYo3nzjfFOOrJ3qmCStWPtsay1ulXTNL9S2n/SbGi3z563NEeaG8prM/4be0bp/V2vioO/cuazvXEHvUX1fIx4r+S2se57tq72J+V3sySjQyWPckm/haV8Y94K1HnOlPKblHc9wvVe3F8yl5vsDeiy9Flv1HqOxBjyn1loemRfPN1pkTiTLvro1vpb51THtmft3o77I62PVebLePstn4ZCW+KeAT1n2eePwxjOk9RkTJD+k5zYqw+cZ+501xxPFSm1dIsWx0tYD3y5TGQ+XYW41j/VVUDeJLdruJ/2CbeqT/d32LoZGuVtcfyta34tWGyt9pP+9Y1Ja5LfsYh/EGYU85kDPsKuR9+b2k2z13R+0hfV449n6jYHrOc1vVKtMCTvtt9ojBpe0TgOWOcLNKOPf6LbqsBc1/wm8OY8xmN8ULaAto3WzActo2b8MfMsac40crLQ1X0/+/hfDJ/pnna1jZJmLrIO3HtY7yXpPWW2QHtMSf5KAMRq27mWlN5DuErwxaTildcw6Ht8CaZ2vwTKnkj9RWus1DVmM8/QiY6Xc6v9VnUd5hPTsz12p79Ly/dA1gnbKYGC9xbj8CC02euO5SnqP3iP/zwCcN59687e8iaz7v/XtBvTtv+dN5oG5zelO0ix3ceaX5xm8+70EO1regWpLxpLx5LW/2thqOrlNrY9PUwvv0PHuwP1p+h16W8f0yrxU74Idwb1bKMYboXbfI2Cftva9J2zprZ0Vz2fHbwIP4yk=</Data>
+   </DataArray>
+</GIFTI>

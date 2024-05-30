@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData/>
+   <LabelTable/>
+   <DataArray  ArrayIndexingOrder="ColumnMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="2562"
+               Dim1="1"
+               Dimensionality="2"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               ExternalFileName=""
+               ExternalFileOffset=""
+               Intent="NIFTI_INTENT_NONE">
+      <MetaData>
+      </MetaData>
+      <Data>eJztmcuVozAQRRUCITiEzmBKGSgEQnAILL3sEAjFoXQog7p5+PEogcAwvRmdc4/+VaXS1ziEzxiCWQjdEHdDnIa4H+L7EH+HIW5z3Z8QmiF+2g+5rY1ps5eM3N4GvkZZOW5HGY+RLP9jlPkBPeGn/y3+9GvEjmwngA2woyN7MJ7e5u1Q7pHrs90dEWgsDMZkY/3NqeMxt1SWeYhPkvjlQXnMBfPBfrEX8KUSyL+LIOOF/5VmlAG7GiKN85htQlnOw74cAw6a5/lVML/PCtCW+3F/LYMOs6VeXt/wP/To+lJSXK6/tTV4FtgfWJPQP+3xDUIF0z4r7JHOlmU2yvfyifTzXtE9qHbcKMa54e1XxIl12VwXw/uW93FpT2+BOdA82/Rw5JZ0t9JvDazb0hnDtE46xaWdvflnE8r17LpLW5wXOM8Al+Fc03OO6SmdZXp4ZyLAnllro+AsM1qf34HanBGmM9Nhz/7tRns6SiPPZzznQ/TvgdL9MPULr32b108j6BpjuI3eMR5YY95dyesL6SRtIIfTuLsUby1O80N6uNyD51Xvv9IaKOVZxk3a8TxuhWaUs3b/vks+a737OLN2h16JZwtg20vtn+aPYU2u1/coa/7GuaYcmbuSLKMxc7q3+Vupt+25qGnDqG2/tYY8m/b47z/X0Nty/5bgt2LOh5U+Ntazrpo39RUY2ePe+dLeez9oe4yN0yUdodCnJEP3RfZnZ/N7gecC/T9jcH9LAPT1ZGid1u9h8jvlTcrekds5OpREbVKc/55JIuPLfCy+3mgom83dTrS/J2tt7dzi/BsKl6EcaR5zjW0140kUl+SmAyzmtTAfV9JG/3erV/4uV9n/Tr0H1p2eC7kOZxKf+XvlPwtwnbdenk49fPuo9LfWqf3a74p1UKK0T7a+X1xNb/NvJIi3+njp9kS7VCb7cqu9tvFkHDnT1mB/JPHrFfDvfujHb2K1jW3ispLc+8oaOYL3vYvrUeYRdurivvc4/04B7rHwfcKO49kSKA42/65Xgr+3wG/sP+TfZc3nZmH3d0Ht68nQuqM6/iX3A228tYXxTm9DGv/iXRjm6dl+2LDlN8MV+llm7RjvcZ4uzcfC7yfQUXwli3Vy0NaF3ECyx7A2Jg0o0zqvb76HbvF1J93i/Ft755RpvddXCRv1NXj2nEEn8t/VMYVx3F/2evc3Y30b/fdvs0IOXrnKyOhbTMv3kOL2/yGeHq7X/1lq/2MBaUfbEjVjTHH5nlxrk6l9fzF73mtA9UJ3E8tv3iYu81y25Vvus5cz3kie3/SN5oE7BumtN593P+nc8Xuy5v85zw7IZfml+/EMSuEMGWcH1qfpM+TWjukdvxTvgh2h5h7F3YL2HGvAfqzVvSdsyeXzAH7Tsp/0XxYU0t8=</Data>
+   </DataArray>
+</GIFTI>

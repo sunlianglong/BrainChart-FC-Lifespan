@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData/>
+   <LabelTable/>
+   <DataArray  ArrayIndexingOrder="ColumnMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="2562"
+               Dim1="1"
+               Dimensionality="2"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               ExternalFileName=""
+               ExternalFileOffset=""
+               Intent="NIFTI_INTENT_NONE">
+      <MetaData>
+      </MetaData>
+      <Data>eJzdWdGV4yAMpASXkBLcwUEHKSEluAQ+/bkluBSX4lLObJh4PBYYZ7Mfd7w3DxBCSEICnDg3e+fiChee6FdMa/+x1sta3xJ9LfGPc93a9v5Jd7mN+am+J9qKcUUMzz5K6jv/xJR5pywr5vXGrMNAa94zPa2F9aADatYHPJPf+qn9FZ6ArujPkJnX9llv6IX1YRP8lNq3jGjYa5WeeFMZsr978g1jynpNuQ1/QMYj1xjzWW/Y8sj2whb29YN4MW/J9sIul+laurxHXdY7rc06p/4Ytn3owrYmdO4w321xxfsL6P5i35PcnvRWqAxn8LocA96fA7bMAovP0/iS9eSYU0Rv46syT/U46BW2fESe3cMGjnXwIW4Q96BFkgvdkO8qBznMeYPcQY5E4kOtiASVwbmniMZ60OdO8rH/nyyR5EEf7D/nEXI+GlCePtMGGhtoPvPFnJd6jnB+AoPBy320cR9M0uazCXECuvN7Pkc19OGYidQexB96bkyk+/dZQ21GWgPrzKTjvZA7OBM4HxArI8XLSxe/P1cZyBFv0PnsteiK6Pfn80K2KMZwPN841nVMbbXyiXOY81rz9SXXbW+GlsJx3YU9HXcE9rsjaDxznGPvGRY/x0lqJ7nW3MVvb6IHxRFiHvM5JzAOfXlP4U+NBY31O7XHsD9TIZf3FDT4n/eBfWchxWrC7I/32WzQa1ikrfHHcdMqD8BZN1Ff868VmhOv/PoBDvkgtuoaNX1qsvBuaX2/fAKlOJgFU6F9BZ/U90zumR4L8U1+Ow8Aft+h/i1E/zPM1GZ5rLflh9+wxZL7Tqxcjq2wvQv4DmRoPGPfFZhfA3KW247WPZtv3fWL377bWZ9Y0Anz9N5XlGJm8UffXI07hb4hWDf4HfvFvuK3HO5D+NZ6r5TWGKVdA+7jaMCSoTyjtFlvluOIl+34FCDPsqOmM/drdlq4/QKurF8C9u0WjjHBfm/NbSvWFCmPvgvT/5MSf8EWyOR9O+O/CQ/6HD/WWW4B702fZTDNKjqvJ737YNOj8LTEbq3oOqxridbqW/AMJ7w8PoTj7xVq804vX/aV0lRWmnsF+o1Y+lY8Q7KxBNjzKbkt/ErT8aTPJH7GO8eCFVMqozaf4cO+7Y25TEdbeV3jeldg+fQKL8cVxxfrr2+v2v0SG8fhl5az4xG23xUeBVhzBpnDvhhofY7Vkk4DyWMay7oC/c3GojGSv2aJrdRnaNy17JvKsBCpvRR4lhPUYoLtYV2d6G+9TcDH79Ld26UQLyX6K578hoVqqx2FdgWxAP+GbOXDXNjD9l3VcfHbPJarshdf9+u7sHyE2ER8lPxa2zfNGQsahzWM0gas/QGgO8tB7DJd498F2yaOfc6FUpxYQE6x7S05rGeO+ub2YYzh+I1l/f6vNEXpO9qF+net+tkaZ56Sv2HDv1j07Vx7a3eVMZ3HstDuKhjC/v8XRm2eBec/j9JbuPY/0BlK82rrvYskl986rzdRQQ/mQzuhC1sNvGN7C7Am33lzRu2+wZmFvp7rh3etvOPY3lboeQm5Fl+qrTNY+UrxrfaOBk3HR6Ovvw3WZJTOvtqckh56bkeCNQ9jI/FEofPvm3o3MI/+p9nl8dp5cnbXWncD+wx7xvvHuvCdiKJ3JZezu6YzbLRsYv7iWUrlTGYb/gIZKOv9</Data>
+   </DataArray>
+</GIFTI>
