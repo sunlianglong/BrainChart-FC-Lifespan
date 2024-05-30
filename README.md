@@ -2,6 +2,7 @@
 
 
 First revision date: 15/09/2023
+
 Second revision date: 30/05/2024
 
 E-mail: lianglongsun@mail.bnu.edu.cn
@@ -94,7 +95,7 @@ This repository provides code and source data that support the findings of the a
 - cifti-matlab toolbox v2 (https://github.com/Washington-University/cifti-matlab)
 #### for-Population-Level-Atlases
 - Atlas_Construction
-  - Preparation Information for subjects: data paths, age information, age-specific individual variability map, and age-specific tSNR map
+  - Preparation Information for subjects: data paths, age information, age-specific individual variability map, and age-specific tSNR map.
 - Adult-based group atlas
 - Atlas_Generation.m
   - To establish a series of age-specific group-level atlases with accurate system correspondences over the lifespan, we proposed a Gaussian-weighted iterative age-specific group atlas (GIAGA) generation approach. For detailed information, please refer to https://www.biorxiv.org/content/10.1101/2023.09.12.557193v2
