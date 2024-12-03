@@ -4,7 +4,7 @@ phenotype_name = 'global system segregation';
 load('..\..\Data\Growth_curve_DM_system_segregation.mat');
 
 for i = 1:7
-    delta_y(:,i) = centiles(2:8001,i) - centiles(1:8000,i);
+    delta_y(:,i) = centiles(2:8021,i) - centiles(1:8020,i);
     rate(:,i) =  delta_y(:,i) / 0.01;
 end
 
@@ -24,9 +24,9 @@ xax.TickDir='out';
 axes(plotAx); % set curr axis
 
 fig.Color='w';fig.Position=[100 100 1200 700]; 
-hp=plot(X(2:8001),rate(:,4),'Color',[0 0 0],'LineWidth',4);
+hp=plot(X(2:8021),rate(:,4),'Color',[0 0 0],'LineWidth',4);
 hold on;
-hp=plot(X(2:8001),zeros(8000,1),'Color',[0 0 1 0.4],'LineWidth',4,'LineStyle','--');
+hp=plot(X(2:8021),zeros(8020,1),'Color',[0 0 1 0.4],'LineWidth',4,'LineStyle','--');
 box off;
 
 max_data = max(max(rate(:,4)));
