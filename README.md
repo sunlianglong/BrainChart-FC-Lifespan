@@ -98,7 +98,7 @@ This repository provides code and source data that support the findings of the a
   - Preparation Information for subjects: data paths, age information, age-specific individual variability map, and age-specific tSNR map.
 - Adult-based group atlas
 - Atlas_Generation.m
-  - To establish a series of age-specific group-level atlases with accurate system correspondences over the lifespan, we proposed a Gaussian-weighted iterative age-specific group atlas (GIAGA) generation approach. For detailed information, please refer to https://www.biorxiv.org/content/10.1101/2023.09.12.557193v2
+  - To establish a series of age-specific group-level atlases with accurate system correspondences over the lifespan, we proposed a Gaussian-weighted iterative age-specific group atlas (GIAGA) generation approach. For detailed information, please refer to https://www.nature.com/articles/s41593-025-01907-4
   - Before running this code, you need to prepare at least one set of individual BOLD data in the fsaverage4 space.
 #### for-Individualized-Atlases
 - fun_Run_IndiPara_for_Each_Indi.m
