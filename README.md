@@ -8,7 +8,7 @@ Second revision date: 30/05/2024
 E-mail: lianglongsun@mail.bnu.edu.cn
 
 
-This repository provides code and source data that support the findings of the article entitled "Functional connectome through the human life span" by Sun et al. (2023) bioRxiv. https://www.biorxiv.org/content/10.1101/2023.09.12.557193v2
+This repository provides code and source data that support the findings of the article entitled "Human lifespan changes in the brain’s functional connectome" by Sun et al. Nat Neurosci (2025). https://doi.org/10.1038/s41593-025-01907-4
 
 ### Data 
 - Growth_curve_global_mean_of_FC.mat
